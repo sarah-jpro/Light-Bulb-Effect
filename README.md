@@ -7,17 +7,19 @@
 # 💡Light-Bulb-Effect💡
 
 
-    During my self-taught apprenticeship, I decided to make a nice animation made only with HTML/CSS as a review 
+During my self-taught apprenticeship, I decided to make a nice animation made only with HTML/CSS as a review 
 
 
-    Languages:
-    ----------
-    - HTML 5
-    - CSS 3
+  Languages:
+  ----------
+   - HTML 5
+   - CSS 3
 
 
-    # Overview  👁️:               ♾️ More fun look here: ➡️
-                                   -------------------------
+  # Overview  👁️:
+  ♾️ More fun look here: ➡️
+  
+
 
 
 <p align="center">
