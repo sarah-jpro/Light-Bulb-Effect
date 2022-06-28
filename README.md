@@ -17,7 +17,7 @@ During my self-taught apprenticeship, I decided to make a nice animation made on
 
 
   # Overview  👁️:
-  ♾️ More fun look here: ➡️
+  ♾️ More fun look here: ➡️ https://sarah-jpro.github.io/Light-Bulb-Effect/
   
 
 
